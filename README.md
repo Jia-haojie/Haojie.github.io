@@ -1,7 +1,16 @@
 # Haojie.github.io
-Haojie的个人主页
-body {
-    background-image: url('1118c0634ffb40b8aaf25aed232d59b5.png');  /* 背景图片的文件名 */
-    background-size: cover;                   /* 图片覆盖整个屏幕 */
-    background-attachment: fixed;             /* 固定背景图片 */
-}
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('background.jpg');  /* 背景图片的文件名 */
+            background-size: cover;                   /* 图片覆盖整个屏幕 */
+            background-attachment: fixed;             /* 固定背景图片 */
+        }
+    </style>
+</head>
+<body>
+   浩杰
+</body>
+</html>
